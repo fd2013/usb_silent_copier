@@ -11,6 +11,10 @@ USB Silent Copier is a Python-based utility that automatically detects and copie
 - Runs silently in the background with a system tray icon
 - Simple GUI for selecting the destination folder
 
+## Screenshot
+
+![USB Silent Copier Screenshot](screenshot.PNG)
+
 ## Requirements
 
 Before running the script, ensure you have Python installed and install the required dependencies.
