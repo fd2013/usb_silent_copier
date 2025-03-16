@@ -21,8 +21,7 @@ Before running the script, ensure you have Python installed and install the requ
 
 ### Install Dependencies
 
-1. Ensure Python is installed on your system.
-2. Install required libraries using:
+Install required libraries using:
    ```bash
    pip install -r requirements.txt
    ```
