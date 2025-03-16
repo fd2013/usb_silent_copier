@@ -1,0 +1,5 @@
+psutil
+pystray
+pillow
+tkinter
+pyinstaller
