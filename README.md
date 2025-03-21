@@ -41,5 +41,5 @@ Once minimized, the app continues running in the system tray. To close it, right
 ## About
 
 - **Version**: 1.0
-- **Creator**: Darkus (@fd2013)
+- **Creator**: Darkus
 - **Year**: 2025
